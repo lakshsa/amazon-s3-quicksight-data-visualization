@@ -1,9 +1,7 @@
 In this project, I focused on creating data visualizations using Amazon S3 and Amazon QuickSight, with a specific emphasis on a significant dataset comprising best-selling Amazon products. The primary goal was to distill meaningful insights from this data, aiding in well-informed decision-making.
 
 Step-by-Step Walkthrough:
-
-
-1. Data Acquisition and Preparation:
+1.Data Acquisition and Preparation:
 Initiated the project by sourcing data from Amazon's records of best-selling products. This data served as the foundation for subsequent analysis and visualization.
 
 2.Utilizing Amazon S3 for Data Storage:
